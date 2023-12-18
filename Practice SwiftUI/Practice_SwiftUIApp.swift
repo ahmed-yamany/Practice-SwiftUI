@@ -12,7 +12,7 @@ struct Practice_SwiftUIApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ParticleEffect()
+            BuildingReusableComponents()
         }
     }
 }
